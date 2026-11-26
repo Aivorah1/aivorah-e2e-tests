@@ -8,7 +8,6 @@
 // - Notification preferences: parent messages, alerts, weekly report toggles.
 // - Branding logos: upload school logo (school admin only).
 // - Account: change email (with verification), change password, delete account.
-// - Face login card (biometric).
 // - Connect school banner for B2C accounts.
 //
 // ── Test data strategy ──────────────────────────────────────────────────
